@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2019.3
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net/get/timezonedb-2019.3.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2019.3.tgz
 Summary  : No detailed summary available
@@ -26,6 +26,7 @@ lib components for the php-timezonedb package.
 
 %prep
 %setup -q -n timezonedb-2019.3
+cd %{_builddir}/timezonedb-2019.3
 
 %build
 export http_proxy=http://127.0.0.1:9/
@@ -44,4 +45,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/timezonedb.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/timezonedb.so
