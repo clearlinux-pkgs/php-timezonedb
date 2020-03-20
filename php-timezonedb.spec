@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2019.3
-Release  : 6
+Release  : 7
 URL      : https://pecl.php.net/get/timezonedb-2019.3.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2019.3.tgz
 Summary  : No detailed summary available
