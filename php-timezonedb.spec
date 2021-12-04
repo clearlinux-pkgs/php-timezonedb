@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2021.5
-Release  : 19
+Release  : 20
 URL      : https://pecl.php.net/get/timezonedb-2021.5.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2021.5.tgz
 Summary  : No detailed summary available
@@ -45,4 +45,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20200930/timezonedb.so
+/usr/lib64/extensions/no-debug-non-zts-20210902/timezonedb.so
