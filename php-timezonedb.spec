@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2021.5
-Release  : 20
+Release  : 21
 URL      : https://pecl.php.net/get/timezonedb-2021.5.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2021.5.tgz
 Summary  : No detailed summary available
