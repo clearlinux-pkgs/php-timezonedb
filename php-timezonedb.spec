@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2022.2
-Release  : 28
+Release  : 29
 URL      : https://pecl.php.net/get/timezonedb-2022.2.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2022.2.tgz
 Summary  : No detailed summary available
