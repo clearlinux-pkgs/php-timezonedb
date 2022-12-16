@@ -4,7 +4,7 @@
 #
 Name     : php-timezonedb
 Version  : 2022.7
-Release  : 39
+Release  : 40
 URL      : https://pecl.php.net/get/timezonedb-2022.7.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2022.7.tgz
 Summary  : No detailed summary available
@@ -48,7 +48,7 @@ make  %{?_smp_mflags}
 
 %install
 mkdir -p %{buildroot}/usr/share/package-licenses/php-timezonedb
-cp %{_builddir}/timezonedb-%{version}/LICENSE %{buildroot}/usr/share/package-licenses/php-timezonedb/a0de8178be391188a8cd696998a75de204d5798d || :
+cp %{_builddir}/timezonedb-%{version}/LICENSE %{buildroot}/usr/share/package-licenses/php-timezonedb/a0de8178be391188a8cd696998a75de204d5798d
 %make_install
 
 
@@ -57,7 +57,7 @@ cp %{_builddir}/timezonedb-%{version}/LICENSE %{buildroot}/usr/share/package-lic
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20210902/timezonedb.so
+/usr/lib64/extensions/no-debug-non-zts-20220829/timezonedb.so
 
 %files license
 %defattr(0644,root,root,0755)
