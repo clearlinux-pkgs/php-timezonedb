@@ -5,7 +5,7 @@
 #
 Name     : php-timezonedb
 Version  : 2023.3
-Release  : 57
+Release  : 58
 URL      : https://pecl.php.net/get/timezonedb-2023.3.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2023.3.tgz
 Summary  : No detailed summary available
