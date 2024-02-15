@@ -7,7 +7,7 @@
 #
 Name     : php-timezonedb
 Version  : 2024.1
-Release  : 70
+Release  : 71
 URL      : https://pecl.php.net/get/timezonedb-2024.1.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2024.1.tgz
 Summary  : No detailed summary available
