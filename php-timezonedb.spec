@@ -7,7 +7,7 @@
 #
 Name     : php-timezonedb
 Version  : 2025.1
-Release  : 90
+Release  : 91
 URL      : https://pecl.php.net/get/timezonedb-2025.1.tgz
 Source0  : https://pecl.php.net/get/timezonedb-2025.1.tgz
 Summary  : No detailed summary available
